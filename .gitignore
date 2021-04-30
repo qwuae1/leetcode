@@ -1,0 +1,19 @@
+node_modules/
+output/
+debug/
+
+*.zip
+
+.DS_Store
+
+
+generated/books/
+generated/gitbook/
+
+deploy_server_password.txt
+# common/config/deploy/deploy_server_password.txt
+
+# exclude all in books
+books/**/*
+# include only single subfolder: gitbook_demo
+!books/gitbook_demo
