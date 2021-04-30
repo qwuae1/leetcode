@@ -1,5 +1,5 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
+* [Binary search](binary-search.md)
 
-* [题目](docs/binary search.md)

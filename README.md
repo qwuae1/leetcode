@@ -1,5 +1,4 @@
 # Introduction
-leetcode book
-```Python
-def
-```
+
+Leetcode book for practice
+
