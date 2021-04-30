@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Binary search](binary-search.md)
+* [Algorithm](algorithm/README.md)
+  * [Binary search](algorithm/binary-search.md)
 
